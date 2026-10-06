@@ -1,0 +1,17 @@
+﻿configs
+data
+notebooks
+src
+tests
+.gitignore
+project-structure-clean.txt
+project-structure.txt
+README.md
+src\api
+src\ingestion
+src\preprocessing
+src\ranking
+src\retrieval
+src\ingestion\inspect_abo.py
+src\preprocessing\normalizer.py
+src\preprocessing\schema.py
